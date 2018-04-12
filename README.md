@@ -1,8 +1,6 @@
 # C-Compiler-Technology-Project
 Hi! Here is the course project that I've done independently in the Compiler Technology Course in China. 
 
-Total Lines > 1500.
-
 This project intends to:
 
   (1)Build Lexical Analyzer --> rdlex.l
